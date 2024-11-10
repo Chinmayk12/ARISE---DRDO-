@@ -37,7 +37,6 @@ ARISE revolutionizes the way the Technology Management Department handles its da
 - Tailored to enhance organizational efficiency, saving time and reducing administrative burdens.
 
 # Screenshots
-
   
 ![f4f69db5c236e2d04ce0431672a070d4](https://github.com/user-attachments/assets/f83f62fa-00a2-4042-976f-1a1fbf805bd7)
 ![7f6a2d055027e2ebe9b082ac2bdc2b30](https://github.com/user-attachments/assets/fd66e3a8-e66e-4dd9-82fe-1dbeaec1bf56)
@@ -49,6 +48,8 @@ ARISE revolutionizes the way the Technology Management Department handles its da
 ![5565ae4000f8a01c319238ec12de360d](https://github.com/user-attachments/assets/d0b671a9-0751-4619-842d-c75391c39e21)
 
 
+### Confidentiality Notice
+This project is confidential and proprietary to **DIAT-DRDO**. Due to security and confidentiality concerns, the download link and source code for this project cannot be provided publicly. If you require access to the application or its code, please contact the appropriate department or personnel for authorized access.
 
 
 
