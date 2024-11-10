@@ -1,4 +1,4 @@
-# ARISE - Technology Management Department App
+# ARISE - DRDO's Technology Management Department App
 
 ARISE revolutionizes the way the Technology Management Department handles its daily operations at DIAT-DRDO. With an emphasis on **security**, **efficiency**, and **user-friendliness**, the app provides an organized platform to keep all essential information at your fingertips.
 
